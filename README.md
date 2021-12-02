@@ -1,19 +1,13 @@
-# Introduction to NFTX
+# Introduction to reNFT
 
-{% hint style="info" %}
-[V1 documentation](https://docs.nftx.org/v/v1.0/) or [V2.0 documentation](https://docs.nftx.org/v/v2.0/) can be found using the drop down under the logo on the left sidebar.
-{% endhint %}
+reNFT is a platform for collateralized and uncollateralized peer to peer Non-Fungible Token \(NFTs\) lending. 
 
-NFTX is a platform for creating liquid markets for illiquid Non-Fungible Tokens \(NFTs\).
-
-Users deposit their NFT into an NFTX vault and mint a fungible ERC20 token \(vToken\) that represents a claim on a random asset from within the vault. vTokens can also be used to redeem a specific NFT from a vault.
+Lenders deposit their NFT into the reNFT contract, specifying terms of a loan, then renters can rent that NFT from the contract. 
 
 **Benefits include:**
 
-* LP and stake minted vTokens to earn yield rewards
-* Better distribution and price discovery for NFT projects
-* Instantly sell any NFT by minting it as an ERC20 and swapping via Sushiswap
-* Increased liquidity for NFT investors and speculators
+* Lend out NFTs for active yield
+* Borrow NFTs for access to benefits without having to purchase them outright
 
 ## How does it work?
 
